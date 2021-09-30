@@ -19,7 +19,7 @@ function CurrentConditions(props) {
         </h3>
       </div>
       <h3 className="text-xs mt-3 text-right text-gray-400">
-        fetched: {new Date(props.data.created_at).toLocaleDateString("en-US")},{" "}
+        fetched: {new Date(props.data.created_at).toLocaleDateString("de-DE")},{" "}
         {new Date(props.data.created_at).toLocaleTimeString("de-DE")}
       </h3>
     </div>
