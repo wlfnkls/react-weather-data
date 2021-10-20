@@ -1,3 +1,5 @@
+![React Weather Data Screenshot](http://wolfniklas.com/images/react-weather-data.png "React Weather Data Screenshot")
+
 # Weather Data Frontend
 
 This is a simple react.js frontend using tailwind reading weather data from a mysql / express.js backend.
